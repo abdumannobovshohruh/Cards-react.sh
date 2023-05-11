@@ -1,0 +1,56 @@
+
+.rism{
+    color: #FFFFFF;
+}
+.nav{
+    background: url(img/AdobeStock_251238249\ 1.svg);
+}
+.hotels{
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 14px;
+line-height: 21px;
+/* identical to box height */
+text-transform: capitalize;
+color: #aaa5a5;
+}
+.home{
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 21px;
+/* identical to box height */
+text-transform: capitalize;
+color: #FFFFFF;
+}
+.box-2{
+    display: flex;
+    justify-content: space-between;
+}
+.discover{
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 48px;
+line-height: 62px;
+/* identical to box height, or 129% */
+color: #FFFFFF;
+}
+.disc{
+    text-align: center;
+    padding-bottom: 400px;
+}
+.on{
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 24px;
+/* identical to box height, or 133% */
+color: #FFFFFF;
+background: #7B61FF;
+border-radius: 12px;
+padding: 20px 50px ;
+}
