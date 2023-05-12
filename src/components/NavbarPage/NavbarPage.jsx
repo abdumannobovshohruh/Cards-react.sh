@@ -14,7 +14,7 @@ export const NavbarPage = () => {
             <Col xl={2}>
              <h2 className="rism">2rism</h2>
             </Col>
-            <Col xl={6}>
+            <Col xl={6} className="d-none d-sm-block">
           <div className="box-2">
           <p className="home">home</p>
               <p className="hotels">hotels</p>
