@@ -1,0 +1,44 @@
+.always-text{
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 20px;
+color: #5B5B5B;
+margin-top: 20px;
+margin-bottom: 20px;
+}
+footer{
+    margin-top: 100px;
+    background: #F9F9F9;
+}
+.tur2{
+    padding-top: 100px;
+    padding-bottom: 50px;
+}
+.about{
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 27px;
+/* identical to box height */
+color: #161414;
+}
+.new{
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 20px;
+/* identical to box height */
+color: #5B5B5B;
+}
+.subs{
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 27px;
+color: #161414;
+}

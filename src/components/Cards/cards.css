@@ -21,3 +21,31 @@
     /* identical to box height */
     color: #979797;
 }
+.popular{
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 32px;
+line-height: 48px;
+/* identical to box height */
+color: #161414;
+margin-top: 100px;
+margin-bottom: 50px;
+}
+.all{
+    background: #F6F4FF;
+border-radius: 12px;
+    padding: 10px 20px;
+    border: none;
+    margin-top: 100px;
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+color: #5243C2;
+}
+.imag{
+    height: 380px;
+}

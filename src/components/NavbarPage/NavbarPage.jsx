@@ -10,7 +10,7 @@ export const NavbarPage = () => {
   return (
     <div className='nav'>
       <Container>
-        <Row>
+        <Row className='justify-content-center pt-3'>
             <Col xl={2}>
              <h2 className="rism">2rism</h2>
             </Col>

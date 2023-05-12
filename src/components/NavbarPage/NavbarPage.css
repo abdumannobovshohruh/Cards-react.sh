@@ -26,6 +26,7 @@ text-transform: capitalize;
 color: #FFFFFF;
 }
 .box-2{
+    margin-top: 10px;
     display: flex;
     justify-content: space-between;
 }
@@ -40,9 +41,11 @@ color: #FFFFFF;
 }
 .disc{
     text-align: center;
-    padding-bottom: 400px;
+    padding-top: 150px;
+    padding-bottom: 300px;
 }
 .on{
+margin-top: 30px;
 font-family: 'Poppins';
 font-style: normal;
 font-weight: 600;
@@ -53,4 +56,5 @@ color: #FFFFFF;
 background: #7B61FF;
 border-radius: 12px;
 padding: 20px 50px ;
+border: none;
 }
