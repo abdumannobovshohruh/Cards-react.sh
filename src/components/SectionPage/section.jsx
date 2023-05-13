@@ -10,7 +10,7 @@ export default function Section() {
     <>
     <Container>
         <Row>
-            <Col xl={6}>
+            <Col xl={6} xs={12}>
                 <div className="box4 d-flex justify-content-center align-items-start">
                     <img src={photo1} alt="" className="vila" />
                     <div className="night ms-3">
@@ -19,7 +19,7 @@ export default function Section() {
                     </div>
                 </div>
             </Col>
-            <Col xl={6}>
+            <Col xl={6} xs={12}>
                 <div className="box4 d-flex justify-content-center align-items-start">
                     <img src={photo2} alt="" className="vila" />
                     <div className="night ms-3">
@@ -48,7 +48,7 @@ export default function Section() {
     </Container>
     <Container>
       <Row className='mt-5 justify-content-center'>
-        <Col xl={5}>
+        <Col xl={5} xs={12}>
           <div className="box-6">
             <h2 className='us'>About Us</h2>
             <p className="dolor">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse a sapien justo. Nulla facilisis tristique imperdiet. Nullam a placerat odio. Sed in ex augue. Aliquam porta consectetur lorem sit amet ultrices. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.</p>

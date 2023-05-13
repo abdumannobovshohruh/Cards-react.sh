@@ -12,10 +12,10 @@ export default function Cards() {
             <h3 className="popular">Popular Destinations</h3>
           </Col>
         </Row>
-        <Row >
+        <Row>
           {data?.map((res) => {
             return (
-              <Col xl={2}>
+              <Col xl={2} xs={8}>
                 <div className="box">
                   <img src={res.img} alt="" className="image" />
                   <h5 className="name">{res.name}</h5>
@@ -36,7 +36,7 @@ export default function Cards() {
         <Row className='justify-content-between'>
           {data2?.map((e) => {
             return (
-              <Col xl={3}>
+              <Col xl={3} xs={12}>
                 <div className="box-3">
                   <img src={e.img} alt="" className="imag" />
                   <h5 className='name'>{e.house}</h5>
